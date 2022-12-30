@@ -5,7 +5,7 @@
       "productName": "Epiphone Thunderbird Vintage Pro",
       "productCategory": "Guitars",
       "categoryId": "63aeb5ac6162026c7e87630a",
-      "productPrice": "97000 BDT",
+      "productPrice": "97000",
       "productDescription": "Epiphone's Thunderbird Vintage PRO Bass is a modern reproduction of the same classic bass guitar that was first introduced to musicians in 1963. It'll transport you back to the golden age of rock n roll.",
       "specifications":[
         "Body Material: Mahogany Body Wings",
@@ -39,7 +39,7 @@
       "productName": "PRS SE Custom 24",
       "productCategory": "Guitars",
       "categoryId": "63aeb5ac6162026c7e87630a",
-      "productPrice": "65000 BDT",
+      "productPrice": "65000",
       "productDescription": "The SE Custom 24 brings the original PRS design platform to the high-quality, more affordable SE line up of instruments. Played by internationally touring artists, gigging musicians, and aspiring players, the SE Custom 24 features a maple top, mahogany back, wide thin maple neck, rosewood fretboard with bird inlays, and the PRS patented molded tremolo bridge.",
       "specifications":[
         "Body Material: Mahogany Body Wings",
@@ -73,7 +73,7 @@
       "productName": "Gretsch G5222 Electromatic Double Jet",
       "productCategory": "Guitars",
       "categoryId": "63aeb5ac6162026c7e87630a",
-      "productPrice": "43000 BDT",
+      "productPrice": "43000",
       "productDescription": "Double-cut chambered mahogany body with arched maple top Lower set mahogany neck for effortless access and performance 12”-radius laurel fingerboard with 22 medium jumbo frets and pearloid Neo-Classic™ inlays Black Top Broad’Tron™ pickups.",
       "specifications":[
         "Body Material: Mahogany Body Wings",
@@ -107,7 +107,7 @@
       "productName": "Squier Bullet Mustang",
       "productCategory": "Guitars",
       "categoryId": "63aeb5ac6162026c7e87630a",
-      "productPrice": "65000 BDT",
+      "productPrice": "65000",
       "productDescription": "100% Designed by Fender Dual humbucking pickups Thin and lightweight body 6-saddle hardtail bridge Satin neck finish.",
       "specifications":[
         "Body Material: Mahogany Body Wings",
@@ -141,7 +141,7 @@
       "productName": "Vintage - V6M24 ReIssued - Ventura Green",
       "productCategory": "Guitars",
       "categoryId": "63aeb5ac6162026c7e87630a",
-      "productPrice": "36000 BDT",
+      "productPrice": "36000",
       "productDescription": "A 24 fret neck and a pair of high output Wilkinson WHHB Double Coil pickups equip the guitar an abundance of harmonic capabilities, making it tailor made for fusion legato lines and high gain rock lead. The twin pin Wilkinson VS50IIK vibrato bridge provides individual fine-tuning of the intonation of each string, whilst maintaining unerring return-to-pitch accuracy, so you can express yourself in your playing safe in the knowledge that your tuning is protected.",
       "specifications":[
         "Body Material: Mahogany Body Wings",
@@ -175,7 +175,7 @@
       "productName": "Majesty Maple Top 8-String Crystal Amethyst",
       "productCategory": "Guitars",
       "categoryId": "63aeb5ac6162026c7e87630a",
-      "productPrice": "635000 BDT",
+      "productPrice": "635000",
       "productDescription": "The Majesty features a perfectly balanced lightweight neckthrough body design, delivering unparalleled access to all 24 stainless steel frets, super smooth tremolo system, and ergonomically optimized control layout.",
       "specifications":[
         "Body Material: Mahogany Body Wings",
@@ -209,7 +209,7 @@
         "productName": "Fender Pugilist distortion",
         "productCategory": "Pedals",
         "categoryId": "63aeb5acd53e9f750330dc4a",
-        "productPrice": "42000 BDT",
+        "productPrice": "42000",
         "productDescription": "Controls: tone A, gain A, tone B, gain B, blend, blend on/off, bass boost, levelSockets: input, output, powerBypass: true bypassPower requirements: 9V power supply, 9V battery.",
         "specifications":[
         "Body Material: Mahogany Body Wings",
@@ -243,7 +243,7 @@
         "productName": "Electro-Harmonix Op-Amp Big Muff Reissue fuzz",
         "productCategory": "Pedals",
         "categoryId": "63aeb5acd53e9f750330dc4a",
-        "productPrice": "53000 BDT",
+        "productPrice": "53000",
         "productDescription": "Sockets: input, output, powerBypass: True bypassPower requirements: 9-Volt battery or EHX 9.6V DC-200mA power supply.",
         "specifications":[
         "Body Material: Mahogany Body Wings",
@@ -277,7 +277,7 @@
         "productName": "Boss CE-2W Waza Craft chorus",
         "productCategory": "Pedals",
         "categoryId": "63aeb5acd53e9f750330dc4a",
-        "productPrice": "35000 BDT",
+        "productPrice": "35000",
         "productDescription": "Controls: Rate, depth, CE-1 switchSockets: Input, 2 x output, powerBypass: Buffered bypassPower requirements: 9V DC power supply, 9V battery.",
         "specifications":[
         "Body Material: Mahogany Body Wings",
@@ -311,7 +311,7 @@
         "productName": "MXR EVH Phase 90 phaser",
         "productCategory": "Pedals",
         "categoryId": "63aeb5acd53e9f750330dc4a",
-        "productPrice": "80000 BDT",
+        "productPrice": "80000",
         "productDescription": "Controls: Speed, Script ModeSockets: Input, output, powerBypass: True bypassPower requirements: 9V DC power supply, 9V battery.",
         "specifications":[
         "Body Material: Mahogany Body Wings",
@@ -345,7 +345,7 @@
         "productName": "Neural DSP",
         "productCategory": "Processors",
         "categoryId": "63aeb5ac780fcdf3edde96e6",
-        "productPrice": "20000 BDT",
+        "productPrice": "20000",
         "productDescription": "Quad Cortex is the most powerful floor modeler on the planet. With a total of 6 cores (4x SHARC+ and 2x ARM Cortex-A5 running at 500MHz each), this ludicrous amount of processing capacity provides limitless sound design possibilities. Number of effects: 104Number of effects: 104Number of assignable footswitches: 10.",
         "specifications":[
         "Body Material: Mahogany Body Wings",
@@ -379,7 +379,7 @@
         "productName": "Line 6 Helix LT",
         "productCategory": "Processors",
         "categoryId": "63aeb5ac780fcdf3edde96e6",
-        "productPrice": "40000 BDT",
+        "productPrice": "40000",
         "productDescription": "Powerful Dual-DSP HX Modeling Large 6.2”, 800x480-Pixel LCD Screen 62 Amps, 37 Cabs, 16 Microphones, and 104 Effects Capacitive Footswitches. Touch to Edit, Hold to Assign, Press to Engage Up to 2 Expression Pedals, External Amp Switching, and Deep MIDI Control Number of effects: 104Number of effects: 104Number of assignable footswitches: 10.",
         "specifications":[
         "Body Material: Mahogany Body Wings",
@@ -413,7 +413,7 @@
         "productName": "Boss GX-100",
         "productCategory": "Processors",
         "categoryId": "63aeb5ac780fcdf3edde96e6",
-        "productPrice": "25000 BDT",
+        "productPrice": "25000",
         "productDescription": "Powerful, easy-to-use amp/effects processor for guitar and bass 24-bit AD/DA, 32-bit floating-point processing, and 48 kHz sampling rate Authentic tube amplifier tone and touch response with AIRD technology 23 amplifier types and over 150 BOSS effects Ultra-flexible amp/effect routing with 15 assignable blocks.",
         "specifications":[
         "Body Material: Mahogany Body Wings",
@@ -447,7 +447,7 @@
         "productName": "Orange Micro Terror",
         "productCategory": "Processors",
         "categoryId": "63aeb5ac780fcdf3edde96e6",
-        "productPrice": "45000 BDT",
+        "productPrice": "45000",
         "productDescription": "Watts: 20Type: HybridPreamp tubes: 12AX7Power amp tubes: Solid-stateSpeakers: N/A.",
         "specifications":[
         "Body Material: Mahogany Body Wings",
@@ -481,7 +481,7 @@
         "productName": "PRS MT15 Mark Tremonti Head",
         "productCategory": "Processors",
         "categoryId": "63aeb5ac780fcdf3edde96e6",
-        "productPrice": "113500 BDT",
+        "productPrice": "113500",
         "productDescription": "Watts: 15Type: TubePreamp tubes: JJ EC83SPower amp tubes: 6L6Speakers: N/A.",
         "specifications":[
         "Body Material: Mahogany Body Wings",
