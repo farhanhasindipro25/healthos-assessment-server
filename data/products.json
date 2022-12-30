@@ -1,0 +1,137 @@
+[
+    {
+      "_id": "63aeb1d04b1d613b0e95186e",
+      "productImg": "https://i.ibb.co/z4pW9Tr/5.jpg",
+      "productName": "Epiphone Thunderbird Vintage Pro",
+      "productCategory": "Guitars",
+      "categoryId": "63aeb5ac6162026c7e87630a",
+      "productPrice": "97000 BDT",
+      "productDescription": "The Epiphone Thunderbird™ 60s Bass is an incredibly accurate reproduction of the classic electric bass first introduced in 1963 that has since powered dozens of hits by artists like The Who, Lynyrd Skynyrd, and Cheap Trick. Featuring new ProBucker™ Bass Humbuckers™ and a vintage styled 60s Thunderbird Tune-O-Matic™ bridge and Claw tailpiece. Available in Alpine White, Ebony, and Tobacco Sunburst."
+    },
+    {
+      "_id": "63aeb1d02ccadbc84a3a3fe7",
+      "productImg": "https://i.ibb.co/HTwZSc9/3.jpg",
+      "productName": "PRS SE Custom 24",
+      "productCategory": "Guitars",
+      "categoryId": "63aeb5ac6162026c7e87630a",
+      "productPrice": "65000 BDT",
+      "productDescription": "The SE Custom 24 brings the original PRS design platform to the high-quality, more affordable SE line up of instruments. Played by internationally touring artists, gigging musicians, and aspiring players, the SE Custom 24 features a maple top, mahogany back, wide thin maple neck, rosewood fretboard with bird inlays, and the PRS patented molded tremolo bridge."
+    },
+    {
+      "_id": "63aeb1d0c25f0de2a26def06",
+      "productImg": "https://i.ibb.co/x194SLZ/2.jpg",
+      "productName": "Gretsch G5222 Electromatic Double Jet",
+      "productCategory": "Guitars",
+      "categoryId": "63aeb5ac6162026c7e87630a",
+      "productPrice": "43000 BDT",
+      "productDescription": "Double-cut chambered mahogany body with arched maple top Lower set mahogany neck for effortless access and performance 12”-radius laurel fingerboard with 22 medium jumbo frets and pearloid Neo-Classic™ inlays Black Top Broad’Tron™ pickups."
+    },
+    {
+      "_id": "63aeb1d0a3faf56bccc1551d",
+      "productImg": "https://i.ibb.co/QcFLCss/1.jpg",
+      "productName": "Squier Bullet Mustang",
+      "productCategory": "Guitars",
+      "categoryId": "63aeb5ac6162026c7e87630a",
+      "productPrice": "65000 BDT",
+      "productDescription": "100% Designed by Fender Dual humbucking pickups Thin and lightweight body 6-saddle hardtail bridge Satin neck finish."
+    },
+    {
+      "_id": "63aeb1d0530170229880293b",
+      "productImg": "https://i.ibb.co/S63JQnj/Screenshot-2022-12-30-154715.png",
+      "productName": "Vintage - V6M24 ReIssued - Ventura Green",
+      "productCategory": "Guitars",
+      "categoryId": "63aeb5ac6162026c7e87630a",
+      "productPrice": "36000 BDT",
+      "productDescription": "A 24 fret neck and a pair of high output Wilkinson WHHB Double Coil pickups equip the guitar an abundance of harmonic capabilities, making it tailor made for fusion legato lines and high gain rock lead. The twin pin Wilkinson VS50IIK vibrato bridge provides individual fine-tuning of the intonation of each string, whilst maintaining unerring return-to-pitch accuracy, so you can express yourself in your playing safe in the knowledge that your tuning is protected."
+    },
+    {
+      "_id": "63aeb1d0b4538c807a011b21",
+      "productImg": "https://i.ibb.co/hHpmHrm/highlight-121.jpg",
+      "productName": "Majesty Maple Top 8-String Crystal Amethyst",
+      "productCategory": "Guitars",
+      "categoryId": "63aeb5ac6162026c7e87630a",
+      "productPrice": "635000 BDT",
+      "productDescription": "The Majesty features a perfectly balanced lightweight neckthrough body design, delivering unparalleled access to all 24 stainless steel frets, super smooth tremolo system, and ergonomically optimized control layout."
+    },
+    {
+        "_id": "63aeb6464582e7fba5d51621",
+        "productImg": "https://i.ibb.co/LvnxcXf/1.jpg",
+        "productName": "Fender Pugilist distortion",
+        "productCategory": "Pedals",
+        "categoryId": "63aeb5acd53e9f750330dc4a",
+        "productPrice": "42000 BDT",
+        "productDescription": "Controls: tone A, gain A, tone B, gain B, blend, blend on/off, bass boost, levelSockets: input, output, powerBypass: true bypassPower requirements: 9V power supply, 9V battery."
+    },
+    {
+        "_id": "63aeb646dde39d5f36ca9dea",
+        "productImg": "https://i.ibb.co/X4XSR3t/2.jpg",
+        "productName": "Electro-Harmonix Op-Amp Big Muff Reissue fuzz",
+        "productCategory": "Pedals",
+        "categoryId": "63aeb5acd53e9f750330dc4a",
+        "productPrice": "53000 BDT",
+        "productDescription": "Sockets: input, output, powerBypass: True bypassPower requirements: 9-Volt battery or EHX 9.6V DC-200mA power supply."
+    },
+    {
+        "_id": "63aeb646b7e8b6476083bcf6",
+        "productImg": "https://i.ibb.co/3Nm6ySQ/3.jpg",
+        "productName": "Boss CE-2W Waza Craft chorus",
+        "productCategory": "Pedals",
+        "categoryId": "63aeb5acd53e9f750330dc4a",
+        "productPrice": "35000 BDT",
+        "productDescription": "Controls: Rate, depth, CE-1 switchSockets: Input, 2 x output, powerBypass: Buffered bypassPower requirements: 9V DC power supply, 9V battery."
+    },
+    {
+        "_id": "63aeb646a983ba08e8e7d602",
+        "productImg": "https://i.ibb.co/MZ13FKN/4.jpg",
+        "productName": "MXR EVH Phase 90 phaser",
+        "productCategory": "Pedals",
+        "categoryId": "63aeb5acd53e9f750330dc4a",
+        "productPrice": "80000 BDT",
+        "productDescription": "Controls: Speed, Script ModeSockets: Input, output, powerBypass: True bypassPower requirements: 9V DC power supply, 9V battery."
+    },
+    {
+        "_id": "63aeb646114a0d79cc85fdd2",
+        "productImg": "https://i.ibb.co/DgF1vJP/Processor1.jpg",
+        "productName": "Neural DSP",
+        "productCategory": "Processors",
+        "categoryId": "63aeb5ac780fcdf3edde96e6",
+        "productPrice": "20000 BDT",
+        "productDescription": "Quad Cortex is the most powerful floor modeler on the planet. With a total of 6 cores (4x SHARC+ and 2x ARM Cortex-A5 running at 500MHz each), this ludicrous amount of processing capacity provides limitless sound design possibilities. Number of effects: 104Number of effects: 104Number of assignable footswitches: 10."
+    },
+    {
+        "_id": "63aeb646312282acfac3c735",
+        "productImg": "https://i.ibb.co/Rp5yS6v/Processor2.png",
+        "productName": "Line 6 Helix LT",
+        "productCategory": "Processors",
+        "categoryId": "63aeb5ac780fcdf3edde96e6",
+        "productPrice": "40000 BDT",
+        "productDescription": "Powerful Dual-DSP HX Modeling Large 6.2”, 800x480-Pixel LCD Screen 62 Amps, 37 Cabs, 16 Microphones, and 104 Effects Capacitive Footswitches. Touch to Edit, Hold to Assign, Press to Engage Up to 2 Expression Pedals, External Amp Switching, and Deep MIDI Control Number of effects: 104Number of effects: 104Number of assignable footswitches: 10."
+    },
+    {
+        "_id": "63aeb6464c9c7bd617d0fbd9",
+        "productImg": "https://i.ibb.co/vxX0nRp/Processor3.jpg",
+        "productName": "Boss GX-100",
+        "productCategory": "Processors",
+        "categoryId": "63aeb5ac780fcdf3edde96e6",
+        "productPrice": "25000 BDT",
+        "productDescription": "Powerful, easy-to-use amp/effects processor for guitar and bass 24-bit AD/DA, 32-bit floating-point processing, and 48 kHz sampling rate Authentic tube amplifier tone and touch response with AIRD technology 23 amplifier types and over 150 BOSS effects Ultra-flexible amp/effect routing with 15 assignable blocks."
+    },
+    {
+        "_id": "63aeb64657a8d4befec3fd75",
+        "productImg": "https://i.ibb.co/xJ73Xts/2.jpg",
+        "productName": "Orange Micro Terror",
+        "productCategory": "Processors",
+        "categoryId": "63aeb5ac780fcdf3edde96e6",
+        "productPrice": "45000 BDT",
+        "productDescription": "Watts: 20Type: HybridPreamp tubes: 12AX7Power amp tubes: Solid-stateSpeakers: N/A."
+    },
+    {
+        "_id": "63aeb646719e30d099b55bc8",
+        "productImg": "https://i.ibb.co/J58SMzN/3.jpg",
+        "productName": "PRS MT15 Mark Tremonti Head",
+        "productCategory": "Processors",
+        "categoryId": "63aeb5ac780fcdf3edde96e6",
+        "productPrice": "113500 BDT",
+        "productDescription": "Watts: 15Type: TubePreamp tubes: JJ EC83SPower amp tubes: 6L6Speakers: N/A."
+    }
+  ]
