@@ -27,8 +27,16 @@ app.get("/product-categories/:id", (req, res) => {
   const selectedCategory = products.filter(
     (product) => product.categoryId === id
   );
-  console.log(selectedCategory);
+  //   console.log(selectedCategory);
   res.send(selectedCategory);
+});
+
+// API for reading product details of a specific product.
+app.get("/products/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedProduct = products.find((product) => product._id === id);
+  console.log(selectedProduct);
+  res.send(selectedProduct);
 });
 
 // API for running the server
