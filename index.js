@@ -21,6 +21,16 @@ app.get("/products", (req, res) => {
   res.send(products);
 });
 
+// API for reading products from a specific category as per its ID
+app.get("/product-categories/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedCategory = products.filter(
+    (product) => product.categoryId === id
+  );
+  console.log(selectedCategory);
+  res.send(selectedCategory);
+});
+
 // API for running the server
 app.get("/", (req, res) => {
   res.send("String Symphony Server running.");
